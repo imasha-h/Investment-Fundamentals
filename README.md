@@ -1,1 +1,1 @@
-# Investmental_Fundamentals
+# Investment_Fundamentals
